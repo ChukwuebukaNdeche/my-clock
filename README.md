@@ -9,7 +9,7 @@ A simple and functional digital clock built using React. This project demonstrat
 - To run this project locally, follow these steps:
 
 # Clone the repository:
-git clone https://github.com/your-username/react-digital-clock.git
+git clone https://github.com/ChukwuebukaNdeche/my-clock.git
 # Navigate to the project directory:
 cd react-digital-clock
 
